@@ -2,4 +2,10 @@ zhen
 nan
 yong
 zzz
+222
 333
+<<<<<<< .mine
+333
+=======
+222
+>>>>>>> .theirs
